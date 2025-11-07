@@ -1,0 +1,12 @@
+name: smart-tradeoffs-02
+title: smart-tradeoffs-02
+username: d3center
+account: d3center
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16000658
+bundleId: 11146834
+url: https://d3center.shinyapps.io/smart-tradeoffs-02/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
