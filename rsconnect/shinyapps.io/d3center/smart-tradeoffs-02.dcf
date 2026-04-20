@@ -5,7 +5,7 @@ account: d3center
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 16000658
-bundleId: 11146834
+bundleId: 11878536
 url: https://d3center.shinyapps.io/smart-tradeoffs-02/
 version: 1
 asMultiple: FALSE

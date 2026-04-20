@@ -205,7 +205,7 @@ server <- function(input, output, session) {
   #############################################################################
   
   # Notification to users -----------------------------------------------------
-  output$notification_simple <- renderText("BETA RELEASE: This app is currently in a testing phase. We hope to add more features. We value your input! Please send any feedback or issues to dziak@umich.edu")
+  output$notification_simple <- renderText("BETA RELEASE: This app is currently in a testing phase. We hope to add more features. We value your input! Please send any feedback or issues to d3center-code@umich.edu")
   
   # Define text to render depending on allocation strategy selected -----------
   generate_explanation_for_simple_allocation <- reactive({
@@ -364,7 +364,7 @@ server <- function(input, output, session) {
   #############################################################################
   
   # Notification to users -----------------------------------------------------
-  output$notification_complex <- renderText("BETA RELEASE: This app is currently in a testing phase. We hope to add more features. We value your input! Please send any feedback or issues to dziak@umich.edu")
+  output$notification_complex <- renderText("BETA RELEASE: This app is currently in a testing phase. We hope to add more features. We value your input! Please send any feedback or issues to d3center-code@umich.edu")
   
   # Define hands on table for participant allocation --------------------------
   dat_initial_full_settings_allocation <- data.frame(p1 = 0.50, p2 = 0.50, pA = 0.50, pB = 0.25, pC = 0.25)
